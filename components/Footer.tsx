@@ -71,7 +71,7 @@ const Footer = () => {
 
         <div className="border bg-gray-20" />
           <p className="regular-14 w-full text-center text-gray-30 ">2024 Travel | All rights reserved</p>
-          <p className="regular-14 w-full text-center text-gray-30 ">By Ivan Lezcano</p>
+          <p className="regular-14 w-full text-center text-gray-30 "><a href='https://www.linkedin.com/in/ivanlezcano/' target='_blank'>By Ivan Lezcano</a></p>
       </div>
     </footer>
   )
